@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Django
 - 💬 Ask me anything about Django 
 - 📫 How to reach me: hafizmyousuf0786@gmail.com
-- 😄 My website: https://yousfphythonkaexpert.com
 
   
 ### Connect with me:
