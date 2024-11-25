@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Muhammad Yousuf</h1>
 
-- 🔭 I’m currently working on Django
-- 🌱 I’m currently learning Django
-- 💬 Ask me anything about Django 
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Machine Learning
+- 💬 Ask me anything about Machine Learning 
 - 📫 How to reach me: hafizmyousuf0786@gmail.com
 
   
