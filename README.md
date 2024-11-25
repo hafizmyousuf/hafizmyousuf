@@ -34,5 +34,9 @@ A passionate and curious software engineer with a focus on Python development.
 
 
 </div>
+<br>
 
 📫 Let's connect and collaborate!
+
+<br>
+⭐️ From [hafizmyousuf](https://github.com/hafizmyousuf)
